@@ -97,6 +97,10 @@ DBMS/
 
 ---
 
-**Course:** Database Management System (DBMS) Lab  
-**Language:** SQL  
-**Database:** MySQL
+## Student Details
+
+- **Name:** Ananya Srivastava
+- **UID:** 25LBCS3220
+- **Course:** B.Tech CSE (AI & ML)
+- **Section:** AIML 2
+- **Subject:** Database Management System (DBMS) Lab
