@@ -165,4 +165,3 @@ DBMS/
 - **Course:** B.Tech CSE (AI & ML)
 - **Section:** AIML 2
 - **Subject:** Database Management System (DBMS) Lab
-```
