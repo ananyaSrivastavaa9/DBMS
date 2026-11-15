@@ -156,7 +156,6 @@ DBMS/
 - Use indexes to improve query performance.
 - Analyse and optimize SQL queries using EXPLAIN and EXPLAIN ANALYZE.
 
----
 
 ## Student Details
 
