@@ -91,6 +91,11 @@ The queries were optimized using single and composite indexes, covering indexes,
 
 **Files:** `Experiment10/`
 
+## Certificate
+
+- **SQL (Basic) Skill Certification** — HackerRank
+- **File:** `Certificates/sql_basic_certificate.pdf`
+
 ## Technologies Used
 
 - MySQL
@@ -103,6 +108,8 @@ The queries were optimized using single and composite indexes, covering indexes,
 
 ```text
 DBMS/
+├── Certificates/
+│   └── sql_basic_certificate.pdf
 ├── Experiment1/
 │   ├── README.md
 │   └── Experiment1.pdf
@@ -155,7 +162,6 @@ DBMS/
 - Work with database transactions and isolation levels.
 - Use indexes to improve query performance.
 - Analyse and optimize SQL queries using EXPLAIN and EXPLAIN ANALYZE.
-
 
 ## Student Details
 
