@@ -166,5 +166,3 @@ DBMS/
 - **Section:** AIML 2
 - **Subject:** Database Management System (DBMS) Lab
 ```
-
-**Ye version better hai** because existing README ka style same rakha hai, bas **7–10 naturally add** kiye hain. GitHub ke main `README.md` ko isi content se replace kar do.
