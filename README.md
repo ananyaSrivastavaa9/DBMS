@@ -96,6 +96,9 @@ The queries were optimized using single and composite indexes, covering indexes,
 - **SQL (Basic) Skill Certification** — HackerRank
 - **File:** `Certificates/sql_basic_certificate.pdf`
 
+- **SQL Developer Certification** — Infosys
+- **File:** `Certificates/infosys_sql_developer.pdf`
+
 ## Technologies Used
 
 - MySQL
@@ -109,7 +112,8 @@ The queries were optimized using single and composite indexes, covering indexes,
 ```text
 DBMS/
 ├── Certificates/
-│   └── sql_basic_certificate.pdf
+│   ├── sql_basic_certificate.pdf
+│   └── infosys_sql_developer.pdf
 ├── Experiment1/
 │   ├── README.md
 │   └── Experiment1.pdf
